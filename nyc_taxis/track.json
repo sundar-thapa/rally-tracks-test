@@ -11,7 +11,7 @@
   ],
   "corpora": [
     {
-      "name": "nyc_taxis",
+      "name": "nyc_taxis_sundar",
       "base-url": "https://rally-tracks.elastic.co/nyc_taxis",
       "documents": [
         {
