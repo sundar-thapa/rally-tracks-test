@@ -2,7 +2,7 @@
 
 {
   "version": 2,
-  "description": "Taxi rides in New York in 2015",
+  "description": "Taxi rides in New York in 2015 nyc_taxis_sundar",
   "indices": [
     {
       "name": "nyc_taxis_sundar",
